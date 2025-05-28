@@ -7,7 +7,7 @@
 
 ### "URLGithub: https://github.com/royservillanueva2004/PE_II_EXAMEN_PRACTICO.git"
 
-Capturas
+Captura de la mejora
 
 ![PlanificaTI](assets/mejora1.png)
 
