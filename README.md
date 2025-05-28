@@ -1,25 +1,14 @@
-**Universidad Privada de Tacna**  
-**Facultad de Ingeniería**  
-**Escuela Profesional de Ingeniería de Sistemas**  
-     
----
-
 ## Curso: Planeamiento Estrategico de PETI
 **Docente: Dr. Oscar J. Jimenez Flores**
 
-Proyecto: PlanificaTI
----
-
-### Integrantes:
-
-- Christian Dennis Hinojosa &nbsp;&nbsp;&nbsp;&nbsp; *(2019065161)*  
-- Danilo Chite Quispe &nbsp;&nbsp;&nbsp;&nbsp; *(2021070015)*  
-- Royser Villanueva Mamani &nbsp;&nbsp;&nbsp;&nbsp; *(2021071090)*  
 
 
----
+### "Examen Práctica Unidad II - PETI", "Royser Alonsso Villanueva Mamani", 28/05/2025
 
-**Tacna – Perú**  
-**2025**
+### "URLGithub: https://github.com/royservillanueva2004/PE_II_EXAMEN_PRACTICO.git"
 
-![PlanificaTI](assets/planificati.png)
+Capturas
+
+![PlanificaTI](assets/mejora1.png)
+
+Se realiza la vista de Resumen del Plan Estrategico.
