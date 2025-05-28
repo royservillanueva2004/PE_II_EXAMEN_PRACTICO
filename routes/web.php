@@ -10,6 +10,7 @@ use App\Http\Controllers\AnalisisFodaController;
 use App\Http\Controllers\MatrizBCGController;
 use App\Http\Controllers\FuerzaPorterController;
 use App\Http\Controllers\PestController;
+use App\Http\Controllers\ResumenController;
 
 Route::get('/', function () {
     return view('welcome');
@@ -74,6 +75,9 @@ Route::middleware(['auth', 'plan.selected'])->group(function () {
 
     // Registrar todo menos `show`
     Route::resource('cadena-valor', CadenaValorController::class)->except(['show']);
+
+    // Resumen
+    Route::get('/resumen', [ResumenController::class, 'index'])->name('resumen.index');
 });
 
 require __DIR__.'/auth.php';
